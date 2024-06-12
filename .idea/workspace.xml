@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="547ee155-b74a-4b54-a794-d2883b8a7831" name="Changes" comment="new files">
-      <change afterPath="$PROJECT_DIR$/ex_10062024/HW_Program1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_10062024/HW_Program2.py" afterDir="false" />
+    <list default="true" id="547ee155-b74a-4b54-a794-d2883b8a7831" name="Changes" comment="homework py files">
+      <change afterPath="$PROJECT_DIR$/ex_12062024/fabonacci_series.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_12062024/leapyear.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_12062024/triangle.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,6 +47,8 @@
     "Python.Lab021.executor": "Run",
     "Python.Lab028.executor": "Run",
     "Python.Lab033.executor": "Run",
+    "Python.leapyear.executor": "Run",
+    "Python.triangle.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -98,10 +101,33 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="leapyear" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyLearning3xATB" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex_12062024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex_12062024/leapyear.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lab015" />
+        <item itemvalue="Python.leapyear" />
         <item itemvalue="Python.Lab001" />
+        <item itemvalue="Python.Lab015" />
       </list>
     </recent_temporary>
   </component>
@@ -137,13 +163,22 @@
       <option name="project" value="LOCAL" />
       <updated>1718132397733</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="homework py files">
+      <option name="closed" value="true" />
+      <created>1718133340878</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1718133340878</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Adding Lab001 file" />
     <MESSAGE value="new files" />
-    <option name="LAST_COMMIT_MESSAGE" value="new files" />
+    <MESSAGE value="homework py files" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework py files" />
   </component>
 </project>
